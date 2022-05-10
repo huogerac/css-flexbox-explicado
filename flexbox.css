@@ -13,26 +13,6 @@ body {
   color: #fff;
 }
 
-.flex-collor-1 {
-  background-color: #ec3d4c;
-}
-
-.flex-collor-1--ft {
-  color: #ec3d4c;
-}
-
-.flex-collor-2 {
-  background-color: #b650cd;
-}
-
-.flex-collor-3 {
-  background-color: #f7a210;
-}
-
-.flex-collor-4 {
-  background-color: #00b8c9;
-}
-
 .container {
   display: flex;
   justify-content: space-around;
