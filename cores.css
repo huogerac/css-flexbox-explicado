@@ -25,3 +25,9 @@
 .flex-collor-light--ft {
   color: #fff;
 }
+
+.small {
+  font-size: 0.7rem;
+  text-decoration: none;
+  color: #fff;
+}

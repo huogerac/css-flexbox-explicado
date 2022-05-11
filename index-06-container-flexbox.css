@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  min-height: 160px;
+}
+
+.item {
+  text-align: center;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+}
