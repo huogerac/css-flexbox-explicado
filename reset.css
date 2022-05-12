@@ -4,3 +4,7 @@ body {
   padding: 0;
   height: 100%;
 }
+
+ul {
+  list-style-type: none;
+}
